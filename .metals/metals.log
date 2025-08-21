@@ -346,3 +346,14 @@ coursierapi.error.SimpleResolutionError$1: Error downloading org.virtuslab.scala
 2025.08.18 10:29:11 INFO  Scala CLI started for C:\Users\Student.DESKTOP-1PVKCNR\Desktop\ONLINE-GROCERY-SHOP
 2025.08.18 10:29:11 WARN  no build tool detected in workspace 'C:\Users\Student.DESKTOP-1PVKCNR\Desktop\ONLINE-GROCERY-SHOP'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 2025.08.18 10:29:11 WARN  Build server is not auto-connectable.
+2025.08.18 11:34:49 INFO  Shutting down server
+2025.08.18 11:34:49 INFO  shutting down Metals
+2025.08.18 11:34:49 INFO  Shut down connection with build server.
+2025.08.18 11:34:49 INFO  Exiting server
+2025.08.18 11:35:26 INFO  Started: Metals version 1.6.2 in folders 'C:\Users\Student.DESKTOP-1PVKCNR\Desktop\ONLINE-GROCERY-SHOP' for client Visual Studio Code 1.103.1.
+2025.08.18 11:35:26 WARN  no build tool detected in workspace 'C:\Users\Student.DESKTOP-1PVKCNR\Desktop\ONLINE-GROCERY-SHOP'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2025.08.18 11:35:27 WARN  Build server is not auto-connectable.
+2025.08.18 11:35:30 INFO  Shutting down server
+2025.08.18 11:35:30 INFO  shutting down Metals
+2025.08.18 11:35:30 INFO  Exiting server
+2025.08.21 10:12:23 INFO  Started: Metals version 1.6.2 in folders 'C:\Users\Student.DESKTOP-1PVKCNR\Desktop\ONLINE-GROCERY-SHOP' for client Visual Studio Code 1.103.1.
